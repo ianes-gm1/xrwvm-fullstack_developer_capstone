@@ -8,6 +8,6 @@
     "require": true,
     "process": true
   },
-  "asi": true
+  "asi": true,
   "laxbreak": true
 }
