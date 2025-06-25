@@ -549,17 +549,6 @@
       "car_make": "Cadillac",
       "car_model": "DeVille",
       "car_year": 1995
-    },
-    {
-      "id": 51,
-      "name": "root",
-      "dealership": 2,
-      "review": "This is the best car i ever bought NOT!!",
-      "purchase": false,
-      "purchase_date": "15/01/2025",
-      "car_make": "Cadillac",
-      "car_model": "DeVille",
-      "car_year": 2000
     }
   ]
 }
